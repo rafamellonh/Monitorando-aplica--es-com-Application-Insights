@@ -17,3 +17,13 @@ aplicativo ou habilitar o application insights usando o agente do Application in
 
 A instrumentação monitora seu aplicativo e direciona os dados de telemetria para um recurso do application insights
 usando uma chave de instrumentação exclusiva. O impacto no desempenho do seu aplicativo é pequeno.
+
+👉 Suporta uma ampla variedade de plataformas, incluindo ASP.NET, ASP.NET Core, Node.js, Java e Python.
+
+👉 Funciona para aplicativos hospedados localmente, híbridos ou em qualquer nuvem pública.
+
+👉 Integra-se com processo DevOps.
+
+👉 Possui pontos de conexão para muitas ferramentas de desenvolvimento.
+
+👉 Pode monitorar e analisar a telemetria de aplicativos móveis integrando-se ao Visual Studio App Center.
