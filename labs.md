@@ -10,3 +10,7 @@
 ![mon03](/images/mon03.png)
 
 👉 Crie uma VM com SQL Server
+
+![mon04](/images/mon04.png)
+![mon05](/images/mon05.png)
+![mon06](/images/mon06.png)
