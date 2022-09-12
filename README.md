@@ -27,3 +27,21 @@ usando uma chave de instrumentação exclusiva. O impacto no desempenho do seu a
 👉 Possui pontos de conexão para muitas ferramentas de desenvolvimento.
 
 👉 Pode monitorar e analisar a telemetria de aplicativos móveis integrando-se ao Visual Studio App Center.
+
+
+🔖 O que pode ser monitorado com o Application Insights
+
+* Taxas de solicitação de resposta e taxas de falha
+* Descubra quais páginas são mais populares, em que horas do dia e onde os usuários estão. Veja quais páginas
+  apresentam melhor desempenho. Se os tempos de resposta e as taxas de falha forem altos quando houver mais
+  solicitações, pode haver um problema de recursos.
+* Taxas de dependências, tempos de resposta e taxas de falha, para mostrar se os serviços externos estão diminuindo 
+  o desempenho.
+* Exceções
+* Visualizações de página e desempenho de carregamento relatados pelos navegadores dos usuários.
+* Contagens de usuários e sessões.
+* Contadores de desempenho de máquinas de servidor Windows ou Linux, como CPU, memória e uso de rede.
+* Diagnóstico de host do Docker ou do Azure.
+* Logs de rastreamento de diagnóstico de aplicativos, para que você possa correlacionar eventos de rastreamento com 
+  solicitações.
+* Eventos e métricas personalizadas no código do cliente ou servidor que rastreiam eventos de negócios, como itens vendidos.
