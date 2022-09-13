@@ -97,3 +97,5 @@ Rode o comando, ele irá fazer todas as alterações necessárias para o funcion
 👉 Verifique no Azure se o Live Metrics está parecido com a imagem abaixo, ela irá "dizer" se está recebendo informações.
 
 ![mon17](/images/mon17.png)
+
+👉 Em Application map iremos validar a performance do APP (site)
