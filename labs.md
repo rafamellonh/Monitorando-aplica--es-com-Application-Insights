@@ -84,3 +84,5 @@ Expand-Archive -LiteralPath $pathToZip -DestinationPath $pathInstalledModule
  #Add InstrumentationKey na aplicação
 
 ``` Enable-ApplicationInsightsMonitoring -ConnectionString 'InstrumentationKey=f44160a0-4496-4d07-a035-3879bde5f0c2;IngestionEndpoint=https://brazilsouth-1.in.applicationinsights.azure.com/;LiveEndpoint=https://brazilsouth.livediagnostics.monitor.azure.com/'   ```
+
+Rode o comando, ele irá fazer todas as alterações necessárias para o funcionamento.
