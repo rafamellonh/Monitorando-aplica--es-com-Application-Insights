@@ -108,3 +108,10 @@ Rode o comando, ele irá fazer todas as alterações necessárias para o funcion
     Entre nas configurações dele e coloque um e-mail para receber os alertas.
 
 ![mon19](/images/mon19.png)
+
+🔖 Transaction search
+
+Onde podemos verificar tudo o que está sendo transicionado dentro do site.
+    Exemplo, ele está tenta mais tráfego com uma dependência que é o banco de dados
+
+![mon20](/images/mon20.png)
