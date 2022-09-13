@@ -57,4 +57,11 @@ Também pare o site default por causa que o mesmo utiliza a porta 80.
 
 👉 Abra o navegador e entre em http://localhost e preencha os campos e após, clique em install.
 
-![mon13](/images/mon13.png)
+![mon14](/images/mon14.png)
+
+👉 Configurar o Application Insights para a VM WEB
+    OBS: Processo manual.
+
+Faça o download do nupkg a partir do link na guia comandos.
+
+![mon15](/images/mon15.png)
