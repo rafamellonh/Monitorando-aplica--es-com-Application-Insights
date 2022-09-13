@@ -54,3 +54,7 @@ Também pare o site default por causa que o mesmo utiliza a porta 80.
 👉 Ajuste as configurações NTFS na pasta onde está o site.
 
 ![mon13](/images/mon13.png)
+
+👉 Abra o navegador e entre em http://localhost
+
+![mon13](/images/mon13.png)
