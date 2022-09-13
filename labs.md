@@ -68,3 +68,11 @@ Faça o download do nupkg a partir do link na guia comandos.
 
 👉 Após isso, rode no powershell o script que está na guia comandos.
 
+``` 
+$pathToNupkg = "C:\Temp\az.applicationmonitor.1.1.2.nupkg" #alterar para o caminho do seu download
+$pathToZip = ([io.path]::ChangeExtension($pathToNupkg, "zip"))
+$pathToNupkg | rename-item -newname $pathToZip
+$pathInstalledModule = "$Env:ProgramFiles\WindowsPowerShell\Modules\Az.ApplicationMonitor"
+Expand-Archive -LiteralPath $pathToZip -DestinationPath $pathInstalledModule
+
+ ``` 
