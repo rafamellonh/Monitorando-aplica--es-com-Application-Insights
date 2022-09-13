@@ -55,6 +55,6 @@ Também pare o site default por causa que o mesmo utiliza a porta 80.
 
 ![mon13](/images/mon13.png)
 
-👉 Abra o navegador e entre em http://localhost
+👉 Abra o navegador e entre em http://localhost e preencha os campos e após, clique em install.
 
 ![mon13](/images/mon13.png)
