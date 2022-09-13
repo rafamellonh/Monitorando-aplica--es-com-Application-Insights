@@ -99,3 +99,5 @@ Rode o comando, ele irá fazer todas as alterações necessárias para o funcion
 ![mon17](/images/mon17.png)
 
 👉 Em Application map iremos validar a performance do APP (site)
+
+![mon18](/images/mon18.png)
