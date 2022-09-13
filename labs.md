@@ -16,3 +16,9 @@
 ![mon06](/images/mon06.png)
 
 👉 Crie uma VM simples para Web inserindo ela na sub-apps
+
+👉 Instalar serviços para utilizar o Application Insights
+
+* Log Analytics Workspaces (geralmente é o custo para ter um monitoramento pois ele armazena todos os logs)
+
+![mon07](/images/mon07.png)
