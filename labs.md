@@ -39,3 +39,8 @@ Aqui obtemos o ``` Instrumentation Key  ```  para configurarmos em nossas aplica
 Ative as roles conforme imagem abaixo somente para garantir o funcionamento das consultas.
 
 ![mon10](/images/mon10.png)
+
+👉 Realize o download da aplicação : 
+
+ [SmartStore](https://github.com/smartstore/SmartStoreNET/releases/download/3.2.2/SmartStoreNET.Community.3.2.2.zip
+)
