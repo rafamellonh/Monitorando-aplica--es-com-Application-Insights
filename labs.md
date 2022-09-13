@@ -35,3 +35,7 @@ Aqui obtemos o ``` Instrumentation Key  ```  para configurarmos em nossas aplica
 ![mon09](/images/mon09.png)
 
 👉 No servidor WEB, instale o IIS.
+
+Ative as roles conforme imagem abaixo somente para garantir o funcionamento das consultas.
+
+![mon10](/images/mon10.png)
