@@ -65,3 +65,6 @@ Também pare o site default por causa que o mesmo utiliza a porta 80.
 Faça o download do nupkg a partir do link na guia comandos.
 
 ![mon15](/images/mon15.png)
+
+👉 Após isso, rode no powershell o script que está na guia comandos.
+
