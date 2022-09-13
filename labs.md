@@ -86,3 +86,11 @@ Expand-Archive -LiteralPath $pathToZip -DestinationPath $pathInstalledModule
 ``` Enable-ApplicationInsightsMonitoring -ConnectionString 'InstrumentationKey=f44160a0-4496-4d07-a035-3879bde5f0c2;IngestionEndpoint=https://brazilsouth-1.in.applicationinsights.azure.com/;LiveEndpoint=https://brazilsouth.livediagnostics.monitor.azure.com/'   ```
 
 Rode o comando, ele irá fazer todas as alterações necessárias para o funcionamento.
+
+
+👉 Atualize a página da aplicação e execute o comando :
+
+``` Get-ApplicationInsightsMonitoringStatus ``` terá que ter o retorno semelhante:
+
+![mon16](/images/mon16.png)
+
