@@ -113,5 +113,7 @@ Rode o comando, ele irá fazer todas as alterações necessárias para o funcion
 
 Onde podemos verificar tudo o que está sendo transicionado dentro do site.
     Exemplo, ele está tenta mais tráfego com uma dependência que é o banco de dados
+    e também mais detalhes sobre cada requisição.
 
 ![mon20](/images/mon20.png)
+![mon21](/images/mon21.png)
