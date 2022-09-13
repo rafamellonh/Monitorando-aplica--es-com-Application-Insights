@@ -78,3 +78,8 @@ Expand-Archive -LiteralPath $pathToZip -DestinationPath $pathInstalledModule
  ``` 
 
  👉 No azure, pegue a ``` connection string ``` que está abaixo de  ``` Instrumentation Key  ``` 
+
+ Insira o conteúdo aqui : 
+
+ #Add InstrumentationKey na aplicação
+Enable-ApplicationInsightsMonitoring -ConnectionString 'InstrumentationKey=f44160a0-4496-4d07-a035-3879bde5f0c2;IngestionEndpoint=https://brazilsouth-1.in.applicationinsights.azure.com/;LiveEndpoint=https://brazilsouth.livediagnostics.monitor.azure.com/'
