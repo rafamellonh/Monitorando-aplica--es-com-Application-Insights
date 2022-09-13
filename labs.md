@@ -22,3 +22,9 @@
 * Log Analytics Workspaces (geralmente é o custo para ter um monitoramento pois ele armazena todos os logs)
 
 ![mon07](/images/mon07.png)
+
+👉 Criar o Application Insights
+
+Selecione o Workspace criado anteriormente para ele armazenar os logs do monitoramento
+
+![mon08](/images/mon08.png)
