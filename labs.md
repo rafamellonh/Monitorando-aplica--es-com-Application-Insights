@@ -31,6 +31,7 @@ Selecione o Workspace criado anteriormente para ele armazenar os logs do monitor
 
 
 Aqui obtemos o ``` Instrumentation Key  ```  para configurarmos em nossas aplicações
-    Ao adicionar 
-
+    
 ![mon09](/images/mon09.png)
+
+👉 No servidor WEB, instale o IIS.
