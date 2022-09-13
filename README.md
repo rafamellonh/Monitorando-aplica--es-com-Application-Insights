@@ -45,3 +45,6 @@ usando uma chave de instrumentação exclusiva. O impacto no desempenho do seu a
 * Logs de rastreamento de diagnóstico de aplicativos, para que você possa correlacionar eventos de rastreamento com 
   solicitações.
 * Eventos e métricas personalizadas no código do cliente ou servidor que rastreiam eventos de negócios, como itens vendidos.
+
+🔖 OBS
+  Ao ativarmos o Application Insights na aplicação, a mesma irá ter perda de performance, mas nada que interfira no desempenho.
