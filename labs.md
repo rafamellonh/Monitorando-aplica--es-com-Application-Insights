@@ -76,3 +76,5 @@ $pathInstalledModule = "$Env:ProgramFiles\WindowsPowerShell\Modules\Az.Applicati
 Expand-Archive -LiteralPath $pathToZip -DestinationPath $pathInstalledModule
 
  ``` 
+
+ 👉 No azure, pegue a ``` connection string ``` que está abaixo de  ``` Instrumentation Key  ``` 
