@@ -101,3 +101,10 @@ Rode o comando, ele irá fazer todas as alterações necessárias para o funcion
 👉 Em Application map iremos validar a performance do APP (site)
 
 ![mon18](/images/mon18.png)
+
+🔖 Smart Deection 
+
+É um item que consegue nos trazer automaticamente alguns alertas
+    Entre nas configurações dele e coloque um e-mail para receber os alertas.
+
+![mon19](/images/mon19.png)
