@@ -44,3 +44,9 @@ Ative as roles conforme imagem abaixo somente para garantir o funcionamento das 
 
  [SmartStore](https://github.com/smartstore/SmartStoreNET/releases/download/3.2.2/SmartStoreNET.Community.3.2.2.zip
 )
+
+👉 Crie um novo Application Pools dentro do IIS e um novo site apontando o mesmo para o Application Pools criado.
+Também pare o site default por causa que o mesmo utiliza a porta 80.
+
+![mon11](/images/mon11.png)
+![mon12](/images/mon12.png)
