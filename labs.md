@@ -50,3 +50,7 @@ Também pare o site default por causa que o mesmo utiliza a porta 80.
 
 ![mon11](/images/mon11.png)
 ![mon12](/images/mon12.png)
+
+👉 Ajuste as configurações NTFS na pasta onde está o site.
+
+![mon13](/images/mon13.png)
