@@ -28,3 +28,8 @@
 Selecione o Workspace criado anteriormente para ele armazenar os logs do monitoramento
 
 ![mon08](/images/mon08.png)
+
+
+Aqui obtemos o ``` Instrumentation Key  ```  para configurarmos em nossas aplicações
+
+![mon09](/images/mon09.png)
